@@ -1,6 +1,6 @@
 :root {
     --light: #ffffff;
-    --dark:rgba(232, 102, 236, 1);
+    --dark: rgba(232, 102, 236, 1);
     --bg: #333333;
 }
 
@@ -14,7 +14,7 @@ main {
     flex-wrap: wrap;
     align-items: stretch;
     justify-content: center;
-    max-width: 75%;
+    max-width: 1200px;
     margin: 1em auto;
 }
 
@@ -32,7 +32,6 @@ h1 {
     border: none;
     color: var(--light);
     padding: 1em;
-
 }
 
 .card {
@@ -62,7 +61,7 @@ h2 {
     padding-left: 10px;
 }
 
-p{
+p {
     font-size: 85%;
 }
 
@@ -98,3 +97,4 @@ h3 {
     var(--bg), 0 0 15px
     var(--dark);
 }
+
