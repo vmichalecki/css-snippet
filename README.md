@@ -1,6 +1,6 @@
 # CSS Snippet Cheat Sheet
 
-This reference guide contains the proper code CSS syntax for some really cool CSS tricks.
+This reference guide contains the proper CSS syntax for some really cool CSS tricks.
 
 ### Installation
 **View my project as it is deployed via GitHub:**
