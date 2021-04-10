@@ -4,7 +4,7 @@ This reference guide contains the proper CSS syntax for some really cool CSS tri
 
 ### Installation
 **View my project as it is deployed via GitHub:**
-https://vmichalecki.github.io/hw1/
+https://vmichalecki.github.io/css-snippet/
 
 **Clone my repo:**
 https://github.com/vmichalecki/css-snippet
